@@ -1,8 +1,8 @@
 # PalmveinBiometrics
 Some machine learning methods are used to find the best way to classify palmvein images as a biometric identification. The dataset used is "Vein Dataset - CIE Biometrics" and should be downloaded and pasted on the main folder.
 
-Python + tensorflow <3 
+Python + tensorflow
 
-As for today just a neural network is implemented, another ML methods will be implemented later
+## Convolutional NN
 
-I am still working on this, sorry for my messy coding :/ 
+A convolutional neural network is implemented, outperforming the simple multilayer perceptron.
